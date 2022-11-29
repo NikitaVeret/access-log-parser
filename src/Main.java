@@ -12,7 +12,7 @@ public class Main {
         System.out.println("Разность чисел равна:"   + ras);
         int pro = numb1*numb2;
         System.out.println("Произведение чисел равно:"   + pro);
-        int cha = numb1/numb2;
+        double cha = numb1/numb2;
         System.out.println("Частное чисел равно:"   + cha);
 
 
